@@ -35,7 +35,7 @@ var ti={}
 
 client.on('ready', function(){
     var ms = 60000 ;
-    var setGame = ['chelp','Type chelp','made by AK','prefix:c'];
+    var setGame = ['chelp made by AK];
     var i = -1;
     var j = 0;
     setInterval(function (){
@@ -91,6 +91,7 @@ ${prefix}emoji <any things>/لتحويل اي كلمه تقولها الي اي�
 ${prefix}inv/لدعوة البوت الى سيرفرك
 ${prefix}support/سيرفر الدعم
 ${prefix}contact/ارسال اقتراح او لمراسلة صاحب البوت
+made by AK
 **
   `
 ,`
@@ -124,6 +125,7 @@ ${prefix}delet <name> / مسح الشات او الرووم فويس
 ${prefix}make <number> / ينشا لك الوان مع كم الوان تبي
 ${prefix}color <number> / لختيار لون
 ${prefix}deletecolors <number> / لحذف الالوان
+made by AK
 **
    `,`
         ***__Music orders__***
@@ -136,6 +138,7 @@ ${prefix}vol / لتغيير درجة الصوت 100 - 0
 ${prefix}stop / لإخرآج البوت من الروم
 ${prefix}np / لمعرفة الأغنية المشغلة حآليا
 ${prefix}queue / لمعرفة قآئمة التشغيل
+made by AK
 **
         ***__Games orders__***
  **       
@@ -155,6 +158,7 @@ ${prefix}يعطيك عقابات قاسية / عقاب
 welcome يتم الترحيب فى روم باسم
 G.setwelcomer <text channel name> لاختيار روم للترحيب
 ${prefix}voiceonline / لتفعيل روم الفويس اونلاين
+made by AK
 **
    
 `]
