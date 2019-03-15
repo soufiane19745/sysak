@@ -35,7 +35,7 @@ var ti={}
 
 client.on('ready', function(){
     var ms = 60000 ;
-    var setGame = ['chelp made by AK];
+    var setGame = ['chelp','Type chelp','made by AK','prefix:c'];
     var i = -1;
     var j = 0;
     setInterval(function (){
